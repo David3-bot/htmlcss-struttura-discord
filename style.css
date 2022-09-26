@@ -17,14 +17,6 @@ header{
     padding: 15px
 }
 
-.barra-arancio{
-    display: flex;
-    flex-direction: row;
-    background-color: orange;
-    border-style: dashed;
-    justify-content:space-between;
-}
-
 
 .barra-arancio{
     display: flex;
@@ -32,9 +24,26 @@ header{
     background-color: orange;
     border-style: dashed;
     justify-content:space-between;
+    width: 900px;
+    padding: 0 auto;
 }
 
 .oggetti-header{
+    display: flexbox;
     justify-content: space-between;
-    order: -1;
+    
+    
 }
+
+.boxrosa{
+    background-color: blue;
+    width: 70%;
+    height: 300px;
+    ;
+}
+
+*ul{
+    display: flex;
+    list-style: none;
+}
+   
