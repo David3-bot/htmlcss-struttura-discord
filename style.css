@@ -33,3 +33,30 @@ nav{
     width: 70%;
 }
 
+
+
+
+.rettangolo-rosa{
+    height: 250px;
+    border: 1px dashed black;
+    background-color: pink;
+    width: 700px;
+    margin: auto;
+
+}
+
+.blu{
+    background-color: blue;
+    margin: auto;
+    padding: 30px;
+
+
+}
+
+.container-main{
+    width: 920px;
+    margin: auto;
+    padding: 30px;
+}
+
+
