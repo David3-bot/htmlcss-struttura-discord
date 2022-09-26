@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 920px;
+    margin:auto;
+    display: flex;
+    
+}
+
+.primopezzo{
+    background-color: aquamarine;
+    padding: 10px;
+}
